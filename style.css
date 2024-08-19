@@ -54,3 +54,10 @@ button{
     padding: 15px 20px;
     border-radius: 20px 0 20px 0;
 }
+img{
+    position: absolute;
+    bottom:0;
+    right:0;
+    width: 40%;
+    box-shadow: 0 0 50px 10px	#ffaa80 ;
+  }
