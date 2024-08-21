@@ -70,3 +70,8 @@ img{
     border-radius: 20px;
     background: #ffff00;
   }
+  .text{
+    font-family: playwrite;
+    font-weight: 600;
+    text-align: justify;
+  }
